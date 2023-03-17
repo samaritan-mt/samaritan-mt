@@ -1,7 +1,6 @@
 # 👋 Hi, I’m @samaritan-mt
 # 👀 I’m interested in cybersecurity and everything that revolves around it.
 # 🌱 I’m currently studying for a computer science engineering degree.
-# 💞️ I’m looking to collaborate on some cryptography projects 
 # 📫 How to reach me : You can contact me by LinkedIn PMs https://www.linkedin.com/in/saad-moutaouakil/ 
 
 <!---
